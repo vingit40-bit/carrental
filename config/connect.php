@@ -1,9 +1,9 @@
 <?php
 // Database configuration
-define('DB_HOST', 'localhost');
-define('DB_USER', 'root'); // Change as needed
-define('DB_PASSWORD', ''); // Change as needed
-define('DB_NAME', 'car_rental');
+define('DB_HOST', 'sql102.infinityfree.com');
+define('DB_USER', 'if0_42361933'); // Change as needed
+define('DB_PASSWORD', 'IbgkDFg65lPKR1'); // Change as needed
+define('DB_NAME', 'if0_42361933_carrental');
 
 // Create connection
 function getConnection() {
